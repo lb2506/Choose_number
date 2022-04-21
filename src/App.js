@@ -8,6 +8,7 @@ const numbers = [1, 2, 3, 4, 5];
 const App = () => {
   const [choice, setChoice] = useState(1); // envoyer des infos vers le composant enfant Number
 
+  // num correspond à props.num de Choice.js
   var onClick = (num) => {
     setChoice(num);
   };
