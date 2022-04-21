@@ -1,0 +1,3 @@
+Le but de cet exercice est de choisir un nombre parmis les 5 nombres ci-dessous.
+Lorsque que vous cliquez sur un des nombres, celui-ci remplace directement le nombre du haut.
+Astuce : Vous aurez besoin du reverse data flow pour réussir cet exercice
